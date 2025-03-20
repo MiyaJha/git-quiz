@@ -8,3 +8,4 @@ Independent practice to test my knowledge of creating templates in Git, plus app
 . Approving merge requests
 . Completing merge requests
 
+
